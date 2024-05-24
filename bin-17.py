@@ -1,0 +1,1 @@
+print("17 is represented in binary as",bin(17))
